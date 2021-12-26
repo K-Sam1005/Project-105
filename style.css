@@ -1,0 +1,27 @@
+body{
+    background: #0099ff;
+    color: white;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera, #result{
+    border: 2px dashed black;
+    width: 360px;
+    height: 305px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: yellow;
+}
+
+.btn-info{
+    background: red;
+}
+
+.btn-success{
+    background: green;
+}
